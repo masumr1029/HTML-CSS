@@ -1,0 +1,139 @@
+body{
+	margin: 0px;
+}
+
+.head{
+	height: 400px;
+	width: 100%;
+	background-image: url("mathematics-1044114_1920.jpg");
+
+}
+.logo{
+	height: 50px;
+	width: 50px;
+	margin-top: -350px;
+	margin-left: 100px;
+}
+
+.logo a{
+	text-decoration: none;
+	font-size: 20px;
+	color: white;
+
+}
+.menu{
+	height: 100px;
+	width: 300px;
+	float: right;
+	margin-top: -80px;
+	margin-right: 80px;
+
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+	margin: 10px;
+	
+}
+.menu ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+#h2{
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	font-family: Goudy Old Style;
+}
+.gallery1{
+	height: 300px;
+	width: 100%;
+	margin-top: 220px;
+}
+
+.text{
+	height: 300px;
+	width: 300px;
+	border-right:1px solid grey;
+	float: left;
+	margin: 30px 60px;
+	padding-right: 20px;
+	
+}
+.text h3{
+	color: #3498DB;
+}
+.text p{
+	margin-right: 50px;
+}
+.gallery2{
+	height: 550px;
+	width: 100%;
+	background-color: #2874A6;
+	margin-top: 80px;
+}
+ .gallery2 p{
+ 	text-align: center;
+ 	font-size: 30px;
+ 	color: white;
+ }
+ .box{
+ 	height: 300px;
+ 	width: 250px;
+ 	border: 1px solid white;
+ 	float: left;
+ 	margin-left:67px;
+
+ }
+ .box img{
+ 	height: 150px;
+ 	width: 150px;
+ 	border-radius: 100px;
+ 	margin:30px 50px;
+ }
+ .box p{
+ 	font-size: 20px;
+ }
+ button{
+ 	height: 35px;
+ 	width: 60px;
+ 	font-size: 15px;
+ 	color: white;
+ 	background-color: #2874A6;
+ 	border:0px;
+ }
+ .gallery3{
+	height: 550px;
+	width: 100%;
+	margin-top: 40px;
+}
+.gallery3 h2{
+ 	text-align: center;
+ 	font-size: 30px;
+ 	color: #2874A6;
+ }
+ .pic2{
+ 	height: 400px;
+ 	width: 550px;
+ 	margin-left: 80px;
+ 	float: left;
+
+ }
+ .gallery3 img{
+ 	height: 220px;
+ 	width: 550px;
+ }
+ .gallery3 h3{
+ 	color: #3498DB;
+ }
+ hr{
+ 	width: 1200px;
+ 	color: #F8F9F9;
+ }
+ .footer{
+ 	width: 1200px;
+ 	height: 100px;
+ 	border-top: 1px solid grey;
+ 	margin-left: 80px;
+ }
