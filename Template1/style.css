@@ -1,0 +1,224 @@
+body{
+	margin: 0px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+.head{
+	height:450px;
+  background:url('img/showcase.jpg');
+  width: 100%;
+  padding-top: 10px;
+  color: white;
+
+
+}
+.head h3{
+	margin-left: 15px;
+	padding-top: 5px;
+
+}
+header .text{
+	text-align: center;
+padding-top: 80px;}
+header a{
+  color:#ffffff;
+  text-decoration:none;
+  font-size:20px;
+}
+header a:hover{
+  color:#cccccc;
+  
+}
+header li{
+  float:left;
+  display:inline;
+  padding:10px 40px;
+
+}
+header nav{
+  float:right;
+  margin-top:-60px;
+
+}
+.show{
+	text-align: center;
+	background-color: #CDD2D6;
+	padding-top: 10px;
+	height: 500px;
+
+}
+#boxes .box{
+ float:left;
+  text-align: center;
+  width:360px;
+  height: 350px;
+  background-color: white;
+  margin-left: 70px;
+  margin-top: 20px;
+
+
+}
+#boxes .box img{
+	border-radius: 500px;
+	width: 170px;
+	height: 150px;
+	margin-top: 20px;
+	padding-bottom: 20px;
+	background-color: #CCCED0;
+}
+.show2{
+	text-align: center;
+	padding-top: 50px;
+
+}
+.show2 p{
+	
+	
+}
+#boxes2 .box2{
+	height: 150px;
+	width: 300px;
+	float: left;
+	margin-left: 25px;
+	margin-top: 20px;
+	
+}
+#boxes2 .box2 img{
+	border-radius: 100px;
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-top: 30px;
+	margin-left: px;
+	border: 1px solid #CCCED0;
+
+
+	
+}
+#boxes2 .box2 p{
+	margin-top: 20px;
+}
+hr{
+	width: 1200px;
+	margin-top: 50px;
+}
+.show2 .hr{
+	margin-top: 200px;
+	width: 1200px;
+
+}
+.show2 .end{
+	text-align: center;
+}
+#show3{
+	text-align: center;
+	background-color: #3493EC;
+	height: 400px;
+	color: white;
+	padding-bottom: 80px;
+}
+#show3 h1{
+	padding-top: 50px;
+}
+form textarea{
+	height: 180px;
+	width: 415px;
+	margin-top: 10px;
+	border: 0px;
+	padding-bottom: 20px;
+	border-radius: 10px
+	
+}
+#footer{
+	height: 350px;
+	background-color: #747D87;
+	padding-top: 20px;
+}
+form button{
+	background-color: #747D87;
+	color: white;
+	margin-top: 10px;
+	height: 35px;
+	width:160px;
+	border: 0px;
+	border-radius: 100px;
+	font-size: 17px;
+	cursor: pointer;
+
+}
+.show2 button{
+	background-color: #3493EC;
+	color: white;
+	margin-top: 10px;
+	height: 35px;
+	width:200px;
+	border: 0px;
+	border-radius: 100px;
+font-size: 18px;
+cursor: pointer;
+}
+.head nav button{
+color: black;
+height: 35px;
+width: 80px;
+background-color: white;
+border: 0px;
+border-radius: 10px;
+cursor: pointer;
+margin-top: 5px;
+margin-right: 7px;
+font-size: 15px;
+}
+.text button{
+	background-color: #3493EC;
+	color: white;
+	margin-top: 10px;
+	height: 37px;
+	width:200px;
+	border: 0px;
+	border-radius: 100px;
+font-size: 18px;
+cursor: pointer;
+}
+.boxes3 .box3{
+	height: 100px;
+	width:250px;
+	float: left;
+	margin-left: 50px;
+	color: white;
+}
+#footer hr{
+	margin-top: 250px;
+}
+.show2 .extra{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#show3 form input{
+	width: 205px;
+	height: 28px;
+	border-radius: 5px;
+	border: 0px;
+}
+
+#footer .ses{
+	margin-left: 50px;
+}
+#icons{
+	padding-right: 50px;
+	margin-top: -40px;
+}
+#icons .icon{
+	
+float:right;
+
+
+}
+#icons .icon img{
+	
+	height: 30px;
+	width: 30px;
+	border-radius: 500px;
+	margin-right:  20px;
+	padding-right: 
+}
